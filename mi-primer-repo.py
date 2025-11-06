@@ -21,3 +21,6 @@ A = 34
 B = 12
 C = A + B
 print(C)
+
+Referencias:
+Chat sobre Fundamentos Y Diseños De Algoritmos: https://claude.ai/share/f0f71267-4e48-4994-8749-27ba0f7a6455
