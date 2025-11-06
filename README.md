@@ -1,7 +1,7 @@
 # mi-primera-pagina
 
 Mi nombre es Andres Jeronimo Parra Bastidas, tengo 17 años y vivo en El Bagre Antioquia
-me gusta mucho el lenguaje para desarroll web php 
+ y me gusta mucho el lenguaje para desarrollo web php,actualmente refuerzo mis conocimientos de programacion con pequeños cursos complementarios en el Sena
 
 
 TI:10113898707
