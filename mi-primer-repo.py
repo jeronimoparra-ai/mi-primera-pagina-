@@ -1,5 +1,5 @@
 #Unidad 1
-texto = """
+"""
 Los lenguajes de programación como Python o Java son las herramientas que 
 utilizamos para comunicarnos con las computadoras. Piensa en ellos como el 
 idioma que la máquina entiende. A través de estos lenguajes, implementamos 
